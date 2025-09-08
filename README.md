@@ -94,7 +94,7 @@ The `PrivacyRegulatoryReporting` contract implements:
 ## 🎬 Demo & Documentation
 
 ### Video Demonstration
-[Demo Video Link - To be added]
+[PrivacyRegulatoryReporting.mp4]
 
 A comprehensive walkthrough showing:
 - Wallet connection and authorization
@@ -103,7 +103,7 @@ A comprehensive walkthrough showing:
 - Access control management
 
 ### On-Chain Transaction Examples
-
+PrivacyRegulatoryReporting.png
 ```
 
 ## 🛠️ Technology Stack
